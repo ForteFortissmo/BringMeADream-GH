@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap",
+				"D:/UnrealProjects/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel_BuiltData.uasset",
+				"D:/UnrealProjects/Bring_Me_a_Dream/Content/_GENERATED/pokem/Box_51CBD81E.uasset",
+				"D:/UnrealProjects/Bring_Me_a_Dream/Content/_GENERATED/pokem/Box_FB893345.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"F:/UnrealProjects/Bring_Me_a_Dream/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/UnrealProjects/Bring_Me_a_Dream/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UnrealProjects/Bring_Me_a_Dream/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
