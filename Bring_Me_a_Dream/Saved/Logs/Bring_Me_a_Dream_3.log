@@ -13813,3 +13813,1159 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.24-05.29.08:424][509]LogShaderCompilers: Display: ================================================
 [2023.04.24-05.29.11:217][579]LogSlate: Window 'Message Log' being destroyed
 [2023.04.24-05.29.11:251][579]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.30.40:619][460]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV
+[2023.04.24-05.30.40:620][460]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV
+[2023.04.24-05.30.40:677][460]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_64
+[2023.04.24-05.30.42:144][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV
+[2023.04.24-05.30.42:145][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV
+[2023.04.24-05.30.42:149][481]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_65
+[2023.04.24-05.30.59:586][998]Cmd: DELETE
+[2023.04.24-05.30.59:586][998]Cmd: ACTOR DELETE
+[2023.04.24-05.31.00:303][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.31.00:410][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.24-05.31.00:416][998]LogEditorActor: Deleted 1 Actors (0.748 secs)
+[2023.04.24-05.32.24:108][873]Cmd: DELETE
+[2023.04.24-05.32.24:108][873]Cmd: ACTOR DELETE
+[2023.04.24-05.32.24:116][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.32.24:206][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.24-05.32.24:212][873]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2023.04.24-05.32.26:820][950]Cmd: TRANSACTION UNDO
+[2023.04.24-05.32.26:820][950]LogEditorTransaction: Undo Delete Elements
+[2023.04.24-05.33.08:942][766]Cmd: DELETE
+[2023.04.24-05.33.08:942][766]Cmd: ACTOR DELETE
+[2023.04.24-05.33.08:949][766]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.33.09:007][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.24-05.33.09:012][766]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.04.24-05.33.33:400][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-05.33.33:409][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-05.33.33:410][273]PIE: New page: PIE session: BedroomLevel (Apr 23, 2023, 9:33:33 PM)
+[2023.04.24-05.33.33:410][273]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.33.33:431][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021510s)
+[2023.04.24-05.33.33:431][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.021542s)
+[2023.04.24-05.33.33:432][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.33.33:432][273]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-05.33.33:432][273]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2023.04.24-05.33.33:487][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.24-05.33.33:490][273]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-05.33.33:490][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-05.33.33:490][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-05.33.33:491][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-05.33.33:491][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-05.33.33:491][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-05.33.33:494][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-05.33.33:541][273]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.24-05.33.33:541][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-05.33.33:542][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-05.33.33:542][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-05.33.33:543][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=113
+[2023.04.24-05.33.33:543][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=113
+[2023.04.24-05.33.33:544][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=113
+[2023.04.24-05.33.33:544][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=113
+[2023.04.24-05.33.33:544][273]LogInit: FAudioDevice initialized.
+[2023.04.24-05.33.33:544][273]LogAudio: Display: Audio Device (ID: 113) registered with world 'BedroomLevel'.
+[2023.04.24-05.33.33:548][273]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-05.33.33:550][273]LogPhysics: Warning: Scale for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=0.000 Z=6.500
+[2023.04.24-05.33.33:553][273]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-01.33.33
+[2023.04.24-05.33.33:553][273]LogWorld: Bringing up level for play took: 0.004568
+[2023.04.24-05.33.33:555][273]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2023.04.24-05.33.33:558][273]PIE: Server logged in
+[2023.04.24-05.33.33:558][273]PIE: Play in editor total start time 0.149 seconds.
+[2023.04.24-05.34.25:649][450]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.04.24-05.34.25:649][450]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.04.24-05.34.25:649][450]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.34.25:649][450]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.34.25:650][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.34.25:710][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.34.25:715][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.24-05.34.25:753][450]LogAudio: Display: Audio Device (ID: 113) registered with world 'Title'.
+[2023.04.24-05.34.25:753][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.34.25:753][450]LogAIModule: Creating AISystem for world Title
+[2023.04.24-05.34.25:754][450]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2023.04.24-05.34.25:754][450]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-05.34.25:770][450]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.04.24-01.34.25
+[2023.04.24-05.34.25:770][450]LogWorld: Bringing up level for play took: 0.013882
+[2023.04.24-05.34.25:770][450]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-05.34.25:771][450]LogLoad: Took 0.122000 seconds to LoadMap(/Game/UserAssets/Levels/Title)
+[2023.04.24-05.34.29:857][656]LogNet: Browse: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.34.29:857][656]LogLoad: LoadMap: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.34.29:857][656]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.04.24-05.34.29:857][656]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.34.29:857][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.34.29:915][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.34.29:919][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.24-05.34.29:923][656]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.34.29:944][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021303s)
+[2023.04.24-05.34.29:944][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.021349s)
+[2023.04.24-05.34.29:944][656]LogAudio: Display: Audio Device (ID: 113) registered with world 'BedroomLevel'.
+[2023.04.24-05.34.29:944][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.34.29:945][656]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-05.34.29:945][656]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.04.24-05.34.29:945][656]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-05.34.29:946][656]LogPhysics: Warning: Scale for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=0.000 Z=6.500
+[2023.04.24-05.34.29:949][656]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-01.34.29
+[2023.04.24-05.34.29:949][656]LogWorld: Bringing up level for play took: 0.004171
+[2023.04.24-05.34.29:950][656]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-05.34.29:951][656]LogLoad: Took 0.095129 seconds to LoadMap(/Game/UserAssets/Levels/UEDPIE_0_BedroomLevel)
+[2023.04.24-05.34.37:194][858]LogViewport: Scene viewport resized to 1526x671, mode Windowed.
+[2023.04.24-05.34.37:433][860]LogViewport: Scene viewport resized to 1526x710, mode Windowed.
+[2023.04.24-05.34.37:589][862]LogViewport: Scene viewport resized to 1526x728, mode Windowed.
+[2023.04.24-05.34.37:780][863]LogViewport: Scene viewport resized to 1526x731, mode Windowed.
+[2023.04.24-05.34.59:800][283]LogDerivedDataCache: C:/Users/mneri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.211 and deleted 0 files with total size 0 MiB. Scanned 4572 files in 4522 folders with total size 310 MiB.
+[2023.04.24-05.35.24:178][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.35.24:178][776]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.35.24:178][776]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.35.24:178][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.35.24:188][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-05.35.24:193][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.35.24:246][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.35.24:246][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2023.04.24-05.35.24:248][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2023.04.24-05.35.24:288][776]LogUObjectHash: Compacting FUObjectHashTables data took  33.69ms
+[2023.04.24-05.35.24:345][777]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2023.04.24-05.38.14:722][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.38.14:932][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.24-05.38.15:047][224]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.38.15:048][224]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel02DDEBFC4A478E0831294F93DE461549.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.38.15:091][224]LogFileHelpers: Saving map 'BedroomLevel' took 0.222
+[2023.04.24-05.38.15:102][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 379 ms (total: 1:55 min)
+[2023.04.24-05.38.15:109][224]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.38.15:109][224]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.38.16:995][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.24-05.38.19:666][277]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-05.38.19:676][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.38.19:842][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/Booktexture
+[2023.04.24-05.38.19:842][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BooktextureD725EE9645987CFC9AC0ADBADEBEEAE7.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/Booktexture.uasset'
+[2023.04.24-05.38.20:439][277]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.38.20:439][277]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Total job queries 1646, among them cache hits 988 (60.02%)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Tracking 641 distinct input hashes that result in 289 distinct outputs (45.09%)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: RAM used: 4.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.53%
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Shaders Compiled: 493
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Jobs assigned 493, completed 493 (100.00%)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Average time worker was idle: 82.84 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Time job spent in pending queue: average 2.55 s, longest 22.43 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 12.06 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Job life time (pending + execution): average 3.34 s, max 22.84
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 201.77 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Jobs were issued in 493 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Average processing rate: 2.44 jobs/sec
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Total thread time: 279.97 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Total thread preprocess time: 16.97 s
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Percentage time preprocessing: 6.06%
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   15 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   15 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.89% of total time (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.45% of total time (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.50% of total time (compiled   40 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.61% of total time (compiled   40 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.09% of total time (compiled   23 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-05.38.20:440][277]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.38.20:613][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/Booktexture_png
+[2023.04.24-05.38.20:613][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Booktexture_png126638CA41A1F2E15D273A9DB5E5A1CD.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/Booktexture_png.uasset'
+[2023.04.24-05.38.20:651][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV
+[2023.04.24-05.38.20:651][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/FlatscreenTV1520B4F649E0548C4D4B468FBD200714.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.uasset'
+[2023.04.24-05.38.20:667][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/Shelftexture
+[2023.04.24-05.38.20:667][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Shelftexture2C3F74724D0B6575E5D4B1A57C480066.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/Shelftexture.uasset'
+[2023.04.24-05.38.20:716][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/Shelftexture_png
+[2023.04.24-05.38.20:716][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Shelftexture_png2BC32AC54581B4EDB5F323A5C2E8DC3D.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/Shelftexture_png.uasset'
+[2023.04.24-05.38.20:722][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/TVtexture
+[2023.04.24-05.38.20:722][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/TVtexture31ADB561438FE7ACA0CF27A35BE490BC.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/TVtexture.uasset'
+[2023.04.24-05.38.22:983][277]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.24-05.38.25:440][277]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000004s (2.497683s overbudget)
+[2023.04.24-05.38.25:491][277]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/FlatscreenTV/TVtexture_png
+[2023.04.24-05.38.25:491][277]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/TVtexture_png839B4C5E4D2C5F19428F2D90DBA2895D.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/FlatscreenTV/TVtexture_png.uasset'
+[2023.04.24-05.38.25:531][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.85 sec (total: 2:01 min)
+[2023.04.24-05.38.25:584][277]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-05.38.25:584][277]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/FlatscreenTV/TVtexture.TVtexture
+[2023.04.24-05.38.25:584][277]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/FlatscreenTV/TVtexture_png.TVtexture_png
+[2023.04.24-05.38.25:584][277]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/FlatscreenTV/Booktexture.Booktexture
+[2023.04.24-05.38.25:584][277]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/FlatscreenTV/Booktexture_png.Booktexture_png
+[2023.04.24-05.38.25:584][277]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/FlatscreenTV/Shelftexture.Shelftexture
+[2023.04.24-05.38.25:585][277]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/FlatscreenTV/Shelftexture_png.Shelftexture_png
+[2023.04.24-05.38.25:585][277]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Models/Environment/FlatscreenTV/FlatscreenTV.FlatscreenTV
+[2023.04.24-05.39.23:970][760]LogViewport: Scene viewport resized to 1526x558, mode Windowed.
+[2023.04.24-05.39.24:110][762]LogViewport: Scene viewport resized to 1526x595, mode Windowed.
+[2023.04.24-05.39.29:526][993]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.24-05.39.29:882][993]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.24-05.39.29:893][994]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.24-05.39.34:746][245]LogContentBrowser: Attempting asset rename: NewFolder -> ComputerDesk
+[2023.04.24-05.39.34:806][245]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.24-05.39.40:985][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ComputerDesk (1).fbx)
+[2023.04.24-05.39.40:997][364]LogFbx: Loading FBX Scene from D:\ComputerDesk (1).fbx
+[2023.04.24-05.39.41:055][364]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.24-05.39.45:735][364]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.24-05.39.45:898][364]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.39.45:898][364]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.39.45:932][364]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/ComputerDesk/Shelftexture.Shelftexture (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.04.24-05.39.45:971][364]LogFbx: Display: Triangulating static mesh Body_1
+[2023.04.24-05.39.46:019][364]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.39.46:020][364]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.39.46:041][364]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/ComputerDesk/Booktexture.Booktexture (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.04.24-05.39.46:087][364]LogFbx: Display: Triangulating static mesh cube Green
+[2023.04.24-05.39.46:160][364]LogFbx: Display: Triangulating static mesh cube Yellow
+[2023.04.24-05.39.46:161][364]LogFbx: Display: Triangulating static mesh cube Yellow_1
+[2023.04.24-05.39.46:161][364]LogFbx: Display: Triangulating static mesh cube Green_1
+[2023.04.24-05.39.46:162][364]LogFbx: Display: Triangulating static mesh cube Blue
+[2023.04.24-05.39.46:162][364]LogFbx: Display: Triangulating static mesh cube Blue_1
+[2023.04.24-05.39.46:163][364]LogFbx: Display: Triangulating static mesh cube Blue_2
+[2023.04.24-05.39.46:163][364]LogFbx: Display: Triangulating static mesh cube Red
+[2023.04.24-05.39.46:174][364]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.39.46:174][364]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.39.46:182][364]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/ComputerDesk/Computertexture.Computertexture (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2023.04.24-05.39.46:205][364]LogFbx: Display: Triangulating static mesh Keyboard
+[2023.04.24-05.39.46:205][364]LogFbx: Display: Triangulating static mesh cube
+[2023.04.24-05.39.46:206][364]LogFbx: Display: Triangulating static mesh cube_1
+[2023.04.24-05.39.46:206][364]LogFbx: Display: Triangulating static mesh cube_2
+[2023.04.24-05.39.46:208][364]LogFbx: Display: Triangulating static mesh sphere
+[2023.04.24-05.39.46:209][364]LogFbx: Display: Triangulating static mesh Back
+[2023.04.24-05.39.46:210][364]LogFbx: Display: Triangulating static mesh cube_3
+[2023.04.24-05.39.46:210][364]LogFbx: Display: Triangulating static mesh cube_4
+[2023.04.24-05.39.46:290][364]LogStaticMesh: Display: Building static mesh ComputerDesk__1_...
+[2023.04.24-05.39.46:363][364]LogStaticMesh: Built static mesh [0.08s] /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.39.46:376][364]LogStaticMesh: Warning: ComputerDesk__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.39.46:376][364]LogStaticMesh: Warning: ComputerDesk__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.39.46:388][364]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.24-05.39.46:388][364]FBXImport: Warning: ComputerDesk__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.39.46:388][364]FBXImport: Warning: ComputerDesk__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.39.49:688][437]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.39.49:697][437]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.40.26:314][959]Cmd: DELETE
+[2023.04.24-05.40.26:314][959]Cmd: ACTOR DELETE
+[2023.04.24-05.40.26:321][959]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.26:386][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.24-05.40.26:393][959]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2023.04.24-05.40.27:085][977]Cmd: DELETE
+[2023.04.24-05.40.27:085][977]Cmd: ACTOR DELETE
+[2023.04.24-05.40.27:092][977]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.27:146][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.24-05.40.27:151][977]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.04.24-05.40.28:002][  3]Cmd: DELETE
+[2023.04.24-05.40.28:002][  3]Cmd: ACTOR DELETE
+[2023.04.24-05.40.28:011][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.28:088][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.24-05.40.28:095][  3]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.04.24-05.40.28:939][ 19]Cmd: DELETE
+[2023.04.24-05.40.28:939][ 19]Cmd: ACTOR DELETE
+[2023.04.24-05.40.28:945][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.29:028][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.24-05.40.29:034][ 19]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2023.04.24-05.40.30:177][ 49]Cmd: DELETE
+[2023.04.24-05.40.30:177][ 49]Cmd: ACTOR DELETE
+[2023.04.24-05.40.30:183][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.30:270][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.24-05.40.30:276][ 49]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2023.04.24-05.40.31:237][ 74]Cmd: DELETE
+[2023.04.24-05.40.31:237][ 74]Cmd: ACTOR DELETE
+[2023.04.24-05.40.31:245][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.40.31:306][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.24-05.40.31:313][ 74]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2023.04.24-05.40.33:812][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.40.33:812][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.40.33:812][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_ as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_66
+[2023.04.24-05.40.34:896][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.40.34:896][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.40.34:897][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_ as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_68
+[2023.04.24-05.41.19:125][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-05.41.19:144][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-05.41.19:144][254]PIE: New page: PIE session: BedroomLevel (Apr 23, 2023, 9:41:19 PM)
+[2023.04.24-05.41.19:144][254]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.41.19:164][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020832s)
+[2023.04.24-05.41.19:165][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.020865s)
+[2023.04.24-05.41.19:165][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.41.19:165][254]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-05.41.19:165][254]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2023.04.24-05.41.19:220][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.24-05.41.19:223][254]LogAudio: Display: Creating Audio Device:                 Id: 114, Scope: Unique, Realtime: True
+[2023.04.24-05.41.19:223][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-05.41.19:224][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-05.41.19:224][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-05.41.19:224][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-05.41.19:224][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-05.41.19:224][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-05.41.19:226][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-05.41.19:273][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.24-05.41.19:273][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-05.41.19:273][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-05.41.19:273][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-05.41.19:274][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=114
+[2023.04.24-05.41.19:274][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=114
+[2023.04.24-05.41.19:276][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=114
+[2023.04.24-05.41.19:276][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=114
+[2023.04.24-05.41.19:276][254]LogInit: FAudioDevice initialized.
+[2023.04.24-05.41.19:276][254]LogAudio: Display: Audio Device (ID: 114) registered with world 'BedroomLevel'.
+[2023.04.24-05.41.19:279][254]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-05.41.19:281][254]LogPhysics: Warning: Scale for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=0.000 Z=6.500
+[2023.04.24-05.41.19:284][254]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-01.41.19
+[2023.04.24-05.41.19:284][254]LogWorld: Bringing up level for play took: 0.004356
+[2023.04.24-05.41.19:286][254]LogOnline: OSS: Created online subsystem instance for: :Context_135
+[2023.04.24-05.41.19:288][254]PIE: Server logged in
+[2023.04.24-05.41.19:289][254]PIE: Play in editor total start time 0.145 seconds.
+[2023.04.24-05.42.12:027][384]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.04.24-05.42.12:027][384]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.04.24-05.42.12:027][384]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.42.12:027][384]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.42.12:028][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.42.12:122][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.42.12:125][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.24-05.42.12:153][384]LogAudio: Display: Audio Device (ID: 114) registered with world 'Title'.
+[2023.04.24-05.42.12:153][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.42.12:154][384]LogAIModule: Creating AISystem for world Title
+[2023.04.24-05.42.12:154][384]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2023.04.24-05.42.12:154][384]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-05.42.12:170][384]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.04.24-01.42.12
+[2023.04.24-05.42.12:170][384]LogWorld: Bringing up level for play took: 0.013902
+[2023.04.24-05.42.12:170][384]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-05.42.12:171][384]LogLoad: Took 0.144472 seconds to LoadMap(/Game/UserAssets/Levels/Title)
+[2023.04.24-05.42.29:547][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.42.29:547][484]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.04.24-05.42.29:547][484]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.42.29:548][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.42.29:551][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-05.42.29:557][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.42.29:610][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.42.29:610][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2023.04.24-05.42.29:612][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2023.04.24-05.42.29:620][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.24-05.42.29:678][485]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2023.04.24-05.42.32:498][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.24-05.42.34:389][527]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-05.42.34:401][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.42.34:540][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.24-05.42.34:651][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.42.34:652][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel014BD8164D0B2D9984DC44B2BFD123FE.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.42.34:666][527]LogFileHelpers: Saving map 'BedroomLevel' took 0.182
+[2023.04.24-05.42.34:695][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Booktexture
+[2023.04.24-05.42.34:695][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Booktexture1F67062D4E875C918D9FAB91EE4D0E8C.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Booktexture.uasset'
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Total job queries 1694, among them cache hits 1024 (60.45%)
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Tracking 653 distinct input hashes that result in 289 distinct outputs (44.26%)
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: RAM used: 4.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.54%
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Shaders Compiled: 505
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Jobs assigned 505, completed 505 (100.00%)
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Average time worker was idle: 83.05 s
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Time job spent in pending queue: average 2.54 s, longest 22.43 s
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 12.06 s
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Job life time (pending + execution): average 3.32 s, max 22.84
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 206.44 s
+[2023.04.24-05.42.34:717][527]LogShaderCompilers: Display: Jobs were issued in 505 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Total thread time: 287.09 s
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Total thread preprocess time: 17.42 s
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Percentage time preprocessing: 6.07%
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   16 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.45% of total time (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.02% of total time (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.29% of total time (compiled   40 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.47% of total time (compiled   40 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.16% of total time (compiled   24 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-05.42.34:718][527]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.42.34:817][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Booktexture_png
+[2023.04.24-05.42.34:817][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Booktexture_png8175797A4F22246E920AF3B97A63A30A.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Booktexture_png.uasset'
+[2023.04.24-05.42.34:831][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_
+[2023.04.24-05.42.34:831][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/ComputerDesk__1_F839B2C442D0327D1100A0AFDCA4EAA1.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.uasset'
+[2023.04.24-05.42.34:853][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Computertexture
+[2023.04.24-05.42.34:853][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/ComputertextureAF228E1C4EC579E8FB0124AC91D8E714.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Computertexture.uasset'
+[2023.04.24-05.42.36:932][527]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.24-05.42.39:206][527]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001135s (2.277676s overbudget)
+[2023.04.24-05.42.39:264][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Computertexture_png
+[2023.04.24-05.42.39:264][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Computertexture_pngDB7D385D40B6BDFFB2460690B7BC67EF.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Computertexture_png.uasset'
+[2023.04.24-05.42.39:270][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Shelftexture
+[2023.04.24-05.42.39:270][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Shelftexture37D4BE914830CA24760A2EA1CBD82FF7.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Shelftexture.uasset'
+[2023.04.24-05.42.39:418][527]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/ComputerDesk/Shelftexture_png
+[2023.04.24-05.42.39:418][527]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Shelftexture_png21B30A174FD2B423DF145DB7F214FA9A.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/ComputerDesk/Shelftexture_png.uasset'
+[2023.04.24-05.42.39:431][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.02 sec (total: 2:06 min)
+[2023.04.24-05.42.39:586][527]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/ComputerDesk/Computertexture.Computertexture
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/ComputerDesk/Computertexture_png.Computertexture_png
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/ComputerDesk/Booktexture.Booktexture
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/ComputerDesk/Booktexture_png.Booktexture_png
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/ComputerDesk/Shelftexture.Shelftexture
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/ComputerDesk/Shelftexture_png.Shelftexture_png
+[2023.04.24-05.42.39:586][527]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Models/Environment/ComputerDesk/ComputerDesk__1_.ComputerDesk__1_
+[2023.04.24-05.43.09:216][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.43.09:434][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.24-05.43.09:569][498]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.43.09:570][498]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel60260B154BAC22DCF80E98BDD9FC6D58.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.43.09:584][498]LogFileHelpers: Saving map 'BedroomLevel' took 0.228
+[2023.04.24-05.43.09:596][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 379 ms (total: 2:07 min)
+[2023.04.24-05.43.09:603][498]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.43.09:603][498]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.46.32:368][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.46.32:597][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.24-05.46.32:710][924]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.46.32:710][924]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevelA12878814BDFE4F196624A9FA69024AA.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.46.32:725][924]LogFileHelpers: Saving map 'BedroomLevel' took 0.194
+[2023.04.24-05.46.32:735][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 366 ms (total: 2:07 min)
+[2023.04.24-05.46.32:743][924]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.46.32:743][924]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.46.35:089][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.24-05.46.38:110][964]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-05.47.03:445][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.24-05.47.05:394][584]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.24-05.47.06:963][584]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.47.06:963][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.47.14:703][584]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/UserAssets/Models/Environment/Window/Windowtexture_png.Windowtexture_png
+	Asset Type: Material
+	Asset Name: /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture.TheGreatBeyondtexture
+	Asset Type: Texture2D
+	Asset Name: /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture_png.TheGreatBeyondtexture_png
+	Asset Type: Material
+	Asset Name: /Game/UserAssets/Models/Environment/Window/Window.Window
+	Asset Type: StaticMesh
+	Asset Name: /Game/UserAssets/Models/Environment/Window/Windowtexture.Windowtexture
+	Asset Type: Texture2D
+[2023.04.24-05.47.21:905][584]LogMaterial: Warning: [AssetLog] D:\BringMeADream-GH\Bring_Me_a_Dream\Content\UserAssets\Models\Environment\Window\TheGreatBeyondtexture_png.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.24-05.47.21:925][584]LogMaterial: Warning: [AssetLog] D:\BringMeADream-GH\Bring_Me_a_Dream\Content\UserAssets\Models\Environment\Window\Windowtexture_png.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Total job queries 1718, among them cache hits 1036 (60.30%)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Tracking 665 distinct input hashes that result in 289 distinct outputs (43.46%)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: RAM used: 4.54 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.55%
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Shaders Compiled: 517
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Jobs assigned 517, completed 517 (100.00%)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Average time worker was idle: 82.09 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Time job spent in pending queue: average 2.52 s, longest 22.43 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 12.06 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Job life time (pending + execution): average 3.30 s, max 22.84
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 210.75 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Jobs were issued in 517 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Total thread time: 294.12 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Total thread preprocess time: 17.85 s
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Percentage time preprocessing: 6.07%
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   17 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   17 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   17 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.03% of total time (compiled   66 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.61% of total time (compiled   67 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.09% of total time (compiled   40 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.34% of total time (compiled   40 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.23% of total time (compiled   25 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-05.47.22:927][584]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.47.23:261][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.24-05.47.23:329][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.24-05.47.23:384][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.24-05.47.39:681][ 20]Cmd: DELETE
+[2023.04.24-05.47.39:681][ 20]Cmd: ACTOR DELETE
+[2023.04.24-05.47.39:691][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.47.39:799][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.24-05.47.39:804][ 20]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2023.04.24-05.47.47:144][347]LogViewport: Scene viewport resized to 1045x595, mode Windowed.
+[2023.04.24-05.48.19:045][ 78]Cmd: TRANSACTION UNDO
+[2023.04.24-05.48.19:045][ 78]LogEditorTransaction: Undo Transform
+[2023.04.24-05.48.26:091][326]Cmd: TRANSACTION UNDO
+[2023.04.24-05.48.26:091][326]LogEditorTransaction: Undo Transform
+[2023.04.24-05.48.41:429][843]LogStaticMesh: Display: Building static mesh Box_51CBD81E...
+[2023.04.24-05.48.41:457][843]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/pokem/Box_51CBD81E) ...
+[2023.04.24-05.48.41:464][843]LogStaticMesh: Built static mesh [0.04s] /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.48.43:923][905]LogMeshUtilities: Finished distance field build in 2.2s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 10 triangles, Box_51CBD81E
+[2023.04.24-05.49.48:676][357]LogStaticMesh: Display: Building static mesh Box_51CBD81E...
+[2023.04.24-05.49.48:677][357]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.49.50:969][424]LogMeshUtilities: Finished distance field build in 2.2s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 13 triangles, Box_51CBD81E
+[2023.04.24-05.50.07:690][ 51]Cmd: TRANSACTION UNDO
+[2023.04.24-05.50.07:690][ 51]LogEditorTransaction: Undo Transform
+[2023.04.24-05.50.09:948][122]LogStaticMesh: Display: Building static mesh Box_51CBD81E...
+[2023.04.24-05.50.09:949][122]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.50.11:748][171]Cmd: TRANSACTION UNDO
+[2023.04.24-05.50.11:749][171]LogEditorTransaction: Undo Deform Mesh
+[2023.04.24-05.50.12:243][171]LogMeshUtilities: Finished distance field build in 2.3s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 16 triangles, Box_51CBD81E
+[2023.04.24-05.50.31:833][819]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/pokem/Box_51CBD81E) ...
+[2023.04.24-05.50.31:840][819]LogStaticMesh: Display: Building static mesh Box_51CBD81E...
+[2023.04.24-05.50.31:899][819]LogStaticMesh: Built static mesh [0.03s] /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.50.34:217][865]LogMeshUtilities: Finished distance field build in 2.3s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 13 triangles, Box_51CBD81E
+[2023.04.24-05.50.39:647][102]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/pokem/Box_51CBD81E) ...
+[2023.04.24-05.50.39:654][102]LogStaticMesh: Display: Building static mesh Box_51CBD81E...
+[2023.04.24-05.50.39:655][102]LogStaticMesh: Built static mesh [0.03s] /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.50.41:913][153]LogMeshUtilities: Finished distance field build in 2.2s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 12 triangles, Box_51CBD81E
+[2023.04.24-05.50.55:815][633]LogViewport: Scene viewport resized to 1045x902, mode Windowed.
+[2023.04.24-05.50.58:982][780]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.04.24-05.51.11:035][977]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Window (1).fbx)
+[2023.04.24-05.51.11:045][977]LogFbx: Loading FBX Scene from D:\Window (1).fbx
+[2023.04.24-05.51.11:058][977]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.24-05.51.12:202][977]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.24-05.51.12:380][977]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.51.12:380][977]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.51.12:394][977]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/Window/Windowtexture.Windowtexture (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 0.102826 MB), EncodeSpeed: Fast
+[2023.04.24-05.51.12:421][977]LogFbx: Display: Triangulating static mesh cube
+[2023.04.24-05.51.12:422][977]LogFbx: Display: Triangulating static mesh cube_1
+[2023.04.24-05.51.12:422][977]LogFbx: Display: Triangulating static mesh cube_2
+[2023.04.24-05.51.12:423][977]LogFbx: Display: Triangulating static mesh cube_3
+[2023.04.24-05.51.12:423][977]LogFbx: Display: Triangulating static mesh cube_4
+[2023.04.24-05.51.12:424][977]LogFbx: Display: Triangulating static mesh cube_5
+[2023.04.24-05.51.12:424][977]LogFbx: Display: Triangulating static mesh cube_6
+[2023.04.24-05.51.12:426][977]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.51.12:426][977]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.51.12:444][977]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture.TheGreatBeyondtexture (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.708295 MB), EncodeSpeed: Fast
+[2023.04.24-05.51.12:499][977]LogFbx: Display: Triangulating static mesh cube_7
+[2023.04.24-05.51.12:500][977]LogFbx: Display: Triangulating static mesh cube_8
+[2023.04.24-05.51.12:501][977]LogFbx: Display: Triangulating static mesh cube_9
+[2023.04.24-05.51.12:501][977]LogFbx: Display: Triangulating static mesh cube_10
+[2023.04.24-05.51.12:502][977]LogFbx: Display: Triangulating static mesh cube_11
+[2023.04.24-05.51.12:502][977]LogFbx: Display: Triangulating static mesh cube_12
+[2023.04.24-05.51.12:637][977]LogStaticMesh: Display: Building static mesh Window__1_...
+[2023.04.24-05.51.12:705][977]LogStaticMesh: Built static mesh [0.08s] /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.51.12:718][977]LogStaticMesh: Warning: Window__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.51.12:718][977]LogStaticMesh: Warning: Window__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.51.12:728][977]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.24-05.51.12:728][977]FBXImport: Warning: Window__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.51.12:728][977]FBXImport: Warning: Window__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.51.12:819][977]LogViewport: Scene viewport resized to 1526x595, mode Windowed.
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Total job queries 1761, among them cache hits 1063 (60.36%)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Tracking 681 distinct input hashes that result in 303 distinct outputs (44.49%)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: RAM used: 4.63 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.57%
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Shaders Compiled: 533
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Jobs assigned 533, completed 533 (100.00%)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Average time worker was idle: 81.18 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Time job spent in pending queue: average 2.48 s, longest 22.43 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 12.06 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Job life time (pending + execution): average 3.27 s, max 22.84
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 220.17 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Jobs were issued in 533 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Average processing rate: 2.42 jobs/sec
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Total thread time: 301.33 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Total thread preprocess time: 18.43 s
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Percentage time preprocessing: 6.12%
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   68 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   69 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   17 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   17 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   17 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.15% of total time (compiled   68 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.67% of total time (compiled   69 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.90% of total time (compiled   40 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.21% of total time (compiled   40 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.13% of total time (compiled   25 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-05.51.13:224][979]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.51.16:849][ 72]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.51.16:857][ 72]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.51.19:157][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.51.19:157][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.51.19:157][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_ as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_69
+[2023.04.24-05.51.20:145][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.51.20:145][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.51.20:146][169]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_ as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_70
+[2023.04.24-05.51.59:714][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-05.51.59:722][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-05.51.59:722][285]PIE: New page: PIE session: BedroomLevel (Apr 23, 2023, 9:51:59 PM)
+[2023.04.24-05.51.59:722][285]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.51.59:756][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032775s)
+[2023.04.24-05.51.59:756][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.033442s)
+[2023.04.24-05.51.59:756][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.51.59:757][285]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-05.51.59:757][285]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2023.04.24-05.51.59:860][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.24-05.51.59:868][285]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-05.51.59:869][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-05.51.59:869][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-05.51.59:869][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-05.51.59:869][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-05.51.59:869][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-05.51.59:871][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-05.51.59:926][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.24-05.51.59:926][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-05.51.59:926][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-05.51.59:926][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-05.51.59:927][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=115
+[2023.04.24-05.51.59:927][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=115
+[2023.04.24-05.51.59:941][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=115
+[2023.04.24-05.51.59:941][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=115
+[2023.04.24-05.51.59:941][285]LogInit: FAudioDevice initialized.
+[2023.04.24-05.51.59:941][285]LogAudio: Display: Audio Device (ID: 115) registered with world 'BedroomLevel'.
+[2023.04.24-05.51.59:944][285]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-05.51.59:948][285]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-01.51.59
+[2023.04.24-05.51.59:948][285]LogWorld: Bringing up level for play took: 0.004300
+[2023.04.24-05.51.59:954][285]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2023.04.24-05.51.59:956][285]PIE: Server logged in
+[2023.04.24-05.51.59:957][285]PIE: Play in editor total start time 0.235 seconds.
+[2023.04.24-05.52.17:666][703]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.04.24-05.52.17:666][703]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.04.24-05.52.17:666][703]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.52.17:667][703]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.52.17:667][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.52.17:728][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.52.17:734][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.24-05.52.17:771][703]LogAudio: Display: Audio Device (ID: 115) registered with world 'Title'.
+[2023.04.24-05.52.17:771][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.52.17:771][703]LogAIModule: Creating AISystem for world Title
+[2023.04.24-05.52.17:772][703]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2023.04.24-05.52.17:772][703]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-05.52.17:788][703]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.04.24-01.52.17
+[2023.04.24-05.52.17:788][703]LogWorld: Bringing up level for play took: 0.013971
+[2023.04.24-05.52.17:788][703]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-05.52.17:789][703]LogLoad: Took 0.123548 seconds to LoadMap(/Game/UserAssets/Levels/Title)
+[2023.04.24-05.52.31:067][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.52.31:067][261]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.04.24-05.52.31:067][261]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.52.31:068][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.52.31:072][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-05.52.31:078][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.52.31:125][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.52.31:126][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2023.04.24-05.52.31:127][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2023.04.24-05.52.31:132][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.52.31:135][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.24-05.52.31:192][262]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2023.04.24-05.52.38:793][444]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.24-05.52.38:811][444]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.24-05.52.38:821][445]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.24-05.52.40:053][476]LogContentBrowser: Attempting asset rename: NewFolder -> Rug
+[2023.04.24-05.52.40:072][476]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.24-05.52.45:801][584]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rug.fbx)
+[2023.04.24-05.52.45:819][584]LogFbx: Loading FBX Scene from D:\Rug.fbx
+[2023.04.24-05.52.45:826][584]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.24-05.52.46:907][584]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.24-05.52.47:012][584]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-05.52.47:012][584]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-05.52.47:049][584]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/Rug/Rugtexture.Rugtexture (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 39.520823 MB), EncodeSpeed: Fast
+[2023.04.24-05.52.47:063][584]LogFbx: Display: Triangulating static mesh cube
+[2023.04.24-05.52.47:123][584]LogStaticMesh: Display: Building static mesh Rug...
+[2023.04.24-05.52.47:178][584]LogStaticMesh: Built static mesh [0.06s] /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-05.52.47:190][584]LogStaticMesh: Warning: Rug has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.52.47:190][584]LogStaticMesh: Warning: Rug has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-05.52.47:221][584]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.24-05.52.47:221][584]FBXImport: Warning: Rug has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.52.47:221][584]FBXImport: Warning: Rug has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-05.52.52:406][678]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.52.52:414][678]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-05.53.02:144][958]Cmd: DELETE
+[2023.04.24-05.53.02:145][958]Cmd: ACTOR DELETE
+[2023.04.24-05.53.02:191][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.53.02:244][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.24-05.53.02:253][958]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2023.04.24-05.53.04:296][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-05.53.04:296][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-05.53.04:310][ 16]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_71
+[2023.04.24-05.53.05:290][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-05.53.05:290][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-05.53.05:291][ 41]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_72
+[2023.04.24-05.53.49:030][410]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-05.53.49:039][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-05.53.49:039][410]PIE: New page: PIE session: BedroomLevel (Apr 23, 2023, 9:53:49 PM)
+[2023.04.24-05.53.49:040][410]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.53.49:061][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020729s)
+[2023.04.24-05.53.49:061][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.020761s)
+[2023.04.24-05.53.49:061][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.53.49:061][410]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-05.53.49:062][410]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2023.04.24-05.53.49:111][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.24-05.53.49:114][410]LogAudio: Display: Creating Audio Device:                 Id: 116, Scope: Unique, Realtime: True
+[2023.04.24-05.53.49:114][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-05.53.49:114][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-05.53.49:115][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-05.53.49:115][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-05.53.49:115][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-05.53.49:115][410]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-05.53.49:115][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-05.53.49:115][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-05.53.49:115][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-05.53.49:115][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-05.53.49:115][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-05.53.49:117][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-05.53.49:163][410]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.24-05.53.49:163][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-05.53.49:163][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-05.53.49:163][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-05.53.49:164][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=116
+[2023.04.24-05.53.49:164][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=116
+[2023.04.24-05.53.49:187][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=116
+[2023.04.24-05.53.49:187][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=116
+[2023.04.24-05.53.49:238][410]LogInit: FAudioDevice initialized.
+[2023.04.24-05.53.49:238][410]LogAudio: Display: Audio Device (ID: 116) registered with world 'BedroomLevel'.
+[2023.04.24-05.53.49:243][410]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-05.53.49:248][410]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-01.53.49
+[2023.04.24-05.53.49:248][410]LogWorld: Bringing up level for play took: 0.004379
+[2023.04.24-05.53.49:250][410]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2023.04.24-05.53.49:252][410]PIE: Server logged in
+[2023.04.24-05.53.49:253][410]PIE: Play in editor total start time 0.214 seconds.
+[2023.04.24-05.54.41:293][606]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.04.24-05.54.41:293][606]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.04.24-05.54.41:293][606]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-05.54.41:294][606]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.54.41:294][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.54.41:350][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-05.54.41:353][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.24-05.54.41:383][606]LogAudio: Display: Audio Device (ID: 116) registered with world 'Title'.
+[2023.04.24-05.54.41:383][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-05.54.41:384][606]LogAIModule: Creating AISystem for world Title
+[2023.04.24-05.54.41:384][606]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.04.24-05.54.41:384][606]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-05.54.41:399][606]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.04.24-01.54.41
+[2023.04.24-05.54.41:399][606]LogWorld: Bringing up level for play took: 0.013232
+[2023.04.24-05.54.41:400][606]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-05.54.41:401][606]LogLoad: Took 0.107910 seconds to LoadMap(/Game/UserAssets/Levels/Title)
+[2023.04.24-05.54.41:957][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.54.41:957][627]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.04.24-05.54.41:957][627]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-05.54.41:958][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.54.41:972][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-05.54.41:978][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-05.54.42:026][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-05.54.42:028][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2023.04.24-05.54.42:029][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2023.04.24-05.54.42:037][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.24-05.54.42:108][628]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2023.04.24-05.55.26:288][696]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.26:288][696]LogEditorTransaction: Undo Move Elements
+[2023.04.24-05.55.31:406][846]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.31:406][846]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.24-05.55.32:274][848]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.32:274][848]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.24-05.55.33:086][861]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.33:086][861]LogEditorTransaction: Undo Move Elements
+[2023.04.24-05.55.34:242][892]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.34:242][892]LogEditorTransaction: Undo Set Scale
+[2023.04.24-05.55.34:993][912]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.34:993][912]LogEditorTransaction: Undo Move Elements
+[2023.04.24-05.55.35:640][929]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.35:640][929]LogEditorTransaction: Undo Move Elements
+[2023.04.24-05.55.36:274][946]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.36:275][946]LogEditorTransaction: Undo Set Scale
+[2023.04.24-05.55.37:025][960]Cmd: TRANSACTION UNDO
+[2023.04.24-05.55.37:026][960]LogEditorTransaction: Undo Set Scale
+[2023.04.24-05.55.41:487][ 75]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.41:500][ 75]LogEditorTransaction: Redo Set Scale
+[2023.04.24-05.55.41:907][ 78]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.41:907][ 78]LogEditorTransaction: Redo Set Scale
+[2023.04.24-05.55.42:416][ 91]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.42:416][ 91]LogEditorTransaction: Redo Move Elements
+[2023.04.24-05.55.42:854][105]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.42:854][105]LogEditorTransaction: Redo Move Elements
+[2023.04.24-05.55.43:476][126]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.43:476][126]LogEditorTransaction: Redo Set Scale
+[2023.04.24-05.55.43:952][142]Cmd: TRANSACTION REDO
+[2023.04.24-05.55.43:952][142]LogEditorTransaction: Redo Move Elements
+[2023.04.24-05.56.00:719][687]Cmd: DELETE
+[2023.04.24-05.56.00:719][687]Cmd: ACTOR DELETE
+[2023.04.24-05.56.00:726][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.56.00:783][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.24-05.56.00:790][687]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.04.24-05.56.12:503][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.04.24-05.56.12:523][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.04.24-05.56.12:524][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_73
+[2023.04.24-05.56.12:543][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_73
+[2023.04.24-05.56.15:708][170]Cmd: TRANSACTION UNDO
+[2023.04.24-05.56.15:708][170]LogEditorTransaction: Undo Create Actor
+[2023.04.24-05.56.20:098][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.24-05.56.20:098][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.24-05.56.20:099][291]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_74
+[2023.04.24-05.56.20:123][291]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_74
+[2023.04.24-05.56.47:341][333]Cmd: TRANSACTION UNDO
+[2023.04.24-05.56.47:341][333]LogEditorTransaction: Undo Set Scale
+[2023.04.24-05.56.48:007][347]Cmd: TRANSACTION UNDO
+[2023.04.24-05.56.48:007][347]LogEditorTransaction: Undo Set Scale
+[2023.04.24-05.56.49:049][386]Cmd: DELETE
+[2023.04.24-05.56.49:049][386]Cmd: ACTOR DELETE
+[2023.04.24-05.56.49:057][386]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-05.56.49:113][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.24-05.56.49:119][386]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.04.24-05.56.53:676][562]LogViewport: Scene viewport resized to 1045x595, mode Windowed.
+[2023.04.24-05.57.02:039][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471
+[2023.04.24-05.57.02:040][961]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471 as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_75
+[2023.04.24-05.57.02:057][961]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471) ...
+[2023.04.24-05.57.02:071][961]LogStaticMesh: Display: Building static mesh Box_C846A471...
+[2023.04.24-05.57.02:072][961]LogStaticMesh: Built static mesh [0.03s] /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471
+[2023.04.24-05.57.18:757][635]LogStaticMesh: Display: Building static mesh Box_C846A471...
+[2023.04.24-05.57.18:758][635]LogStaticMesh: Built static mesh [0.00s] /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471
+[2023.04.24-05.57.30:139][ 35]LogStaticMesh: Display: Building static mesh Box_C846A471...
+[2023.04.24-05.57.30:141][ 35]LogStaticMesh: Built static mesh [0.00s] /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471
+[2023.04.24-05.57.32:160][ 91]LogMeshUtilities: Finished distance field build in 2.0s - 21x126x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 6 triangles, Box_C846A471
+[2023.04.24-05.58.00:856][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.58.01:057][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.24-05.58.01:172][260]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.58.01:173][260]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel34D4AD3D4FF1C48BF02B60BC72A5C6F2.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.58.01:189][260]LogFileHelpers: Saving map 'BedroomLevel' took 0.209
+[2023.04.24-05.58.01:200][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 344 ms (total: 2:07 min)
+[2023.04.24-05.58.01:207][260]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.58.01:207][260]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.58.25:886][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.58.26:099][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.24-05.58.26:216][257]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.58.26:216][257]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel10CD187A479E77A477B16882BC9A1679.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.58.26:230][257]LogFileHelpers: Saving map 'BedroomLevel' took 0.264
+[2023.04.24-05.58.26:247][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 361 ms (total: 2:08 min)
+[2023.04.24-05.58.26:255][257]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.58.26:255][257]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.58.38:085][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.58.38:215][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.24-05.58.38:327][753]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.58.38:327][753]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevelA8265D32454CEDC3B0373285CD71AD5D.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.58.38:341][753]LogFileHelpers: Saving map 'BedroomLevel' took 0.175
+[2023.04.24-05.58.38:358][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 2:08 min)
+[2023.04.24-05.58.38:365][753]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.58.38:365][753]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.58.58:236][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.58.58:370][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.24-05.58.58:481][619]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-05.58.58:482][619]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevel2B9A18474F7C33559A6CBC9AB9503606.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-05.58.58:496][619]LogFileHelpers: Saving map 'BedroomLevel' took 0.176
+[2023.04.24-05.58.58:514][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 2:08 min)
+[2023.04.24-05.58.58:521][619]AssetCheck: New page: Asset Save: BedroomLevel
+[2023.04.24-05.58.58:521][619]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-05.58.59:478][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.24-05.59.01:041][655]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-05.59.01:053][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-05.59.01:208][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/pokem/Box_51CBD81E" FILE="../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/_GENERATED/pokem/Box_51CBD81E.uasset" SILENT=true
+[2023.04.24-05.59.01:243][655]LogSavePackage: Moving output files for package: /Game/_GENERATED/pokem/Box_51CBD81E
+[2023.04.24-05.59.01:244][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Box_51CBD81EE5F6E5DC402896BEC0982E975E56796A.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/_GENERATED/pokem/Box_51CBD81E.uasset'
+[2023.04.24-05.59.01:285][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471
+[2023.04.24-05.59.01:285][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Box_C846A471E6182B1A4ED2819942141895924E7C3D.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.uasset'
+[2023.04.24-05.59.01:296][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserAssets/Models/Environment/Rug/Rug" FILE="../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Rug/Rug.uasset" SILENT=true
+[2023.04.24-05.59.01:298][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Rug/Rug
+[2023.04.24-05.59.01:298][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Rug136A2DCF4F2BD5A5C8EB21BA0ECD23C0.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Rug/Rug.uasset'
+[2023.04.24-05.59.01:408][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Rug/Rugtexture
+[2023.04.24-05.59.01:409][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Rugtexture9860661E471AB29A9DE6128551F7E5E4.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Rug/Rugtexture.uasset'
+[2023.04.24-05.59.03:434][655]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.24-05.59.05:705][655]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001565s (2.273256s overbudget)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Total job queries 1785, among them cache hits 1071 (60.00%)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Tracking 697 distinct input hashes that result in 303 distinct outputs (43.47%)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: RAM used: 4.75 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.58%
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Shaders Compiled: 549
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Jobs assigned 549, completed 549 (100.00%)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Average time worker was idle: 80.84 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Time job spent in pending queue: average 2.46 s, longest 22.43 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 12.06 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Job life time (pending + execution): average 3.24 s, max 22.84
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 226.11 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Jobs were issued in 549 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Average processing rate: 2.43 jobs/sec
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Total thread time: 310.37 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Total thread preprocess time: 18.99 s
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Percentage time preprocessing: 6.12%
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   69 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   70 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   18 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   18 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-05.59.05:708][655]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   18 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.88% of total time (compiled   69 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.38% of total time (compiled   70 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.85% of total time (compiled   41 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.18% of total time (compiled   41 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.16% of total time (compiled   26 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-05.59.05:709][655]LogShaderCompilers: Display: ================================================
+[2023.04.24-05.59.05:768][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Rug/Rugtexture_png
+[2023.04.24-05.59.05:769][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Rugtexture_png21F3E9EC416533F54F96C3BBB6C14055.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Rug/Rugtexture_png.uasset'
+[2023.04.24-05.59.05:772][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture
+[2023.04.24-05.59.05:773][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/TheGreatBeyondtexture48C65B5141DB1299ECBB9D9988862C36.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Window/TheGreatBeyondtexture.uasset'
+[2023.04.24-05.59.05:818][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture_png
+[2023.04.24-05.59.05:818][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/TheGreatBeyondtexture_png3C35F00A4246B2FE269577AA13556580.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Window/TheGreatBeyondtexture_png.uasset'
+[2023.04.24-05.59.05:835][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Window/Window__1_
+[2023.04.24-05.59.05:835][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Window__1_46FC1CF54D37588706AD9880A70F8DE9.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Window/Window__1_.uasset'
+[2023.04.24-05.59.05:838][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Window/Windowtexture
+[2023.04.24-05.59.05:839][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Windowtexture5F4F36934E5DBD079D0E7C9CB695EA71.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Window/Windowtexture.uasset'
+[2023.04.24-05.59.05:869][655]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Window/Windowtexture_png
+[2023.04.24-05.59.05:869][655]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Windowtexture_png3BBE3D5F431112390CD2A3B475A3EB03.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Window/Windowtexture_png.uasset'
+[2023.04.24-05.59.05:899][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.84 sec (total: 2:13 min)
+[2023.04.24-05.59.05:942][655]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/pokem/Box_51CBD81E.Box_51CBD81E
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Levels/_GENERATED/mneri/Box_C846A471.Box_C846A471
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture.TheGreatBeyondtexture
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/Window/TheGreatBeyondtexture_png.TheGreatBeyondtexture_png
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/Window/Windowtexture.Windowtexture
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/Window/Windowtexture_png.Windowtexture_png
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Models/Environment/Window/Window__1_.Window__1_
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/Rug/Rugtexture.Rugtexture
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/Rug/Rugtexture_png.Rugtexture_png
+[2023.04.24-05.59.05:942][655]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Models/Environment/Rug/Rug.Rug
+[2023.04.24-06.02.30:524][426]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.24-06.02.30:549][426]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.24-06.02.30:563][427]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.24-06.02.32:308][508]LogContentBrowser: Attempting asset rename: NewFolder -> Chair
+[2023.04.24-06.02.32:309][508]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.24-06.02.37:902][660]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Chair.fbx)
+[2023.04.24-06.02.37:913][660]LogFbx: Loading FBX Scene from D:\Chair.fbx
+[2023.04.24-06.02.37:925][660]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.24-06.02.39:265][660]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.24-06.02.39:396][660]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.24-06.02.39:396][660]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.24-06.02.39:421][660]LogTexture: Display: Building textures: /Game/UserAssets/Models/Environment/Chair/chairtexture.chairtexture (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2023.04.24-06.02.39:444][660]LogFbx: Display: Triangulating static mesh cube
+[2023.04.24-06.02.39:445][660]LogFbx: Display: Triangulating static mesh cube_1
+[2023.04.24-06.02.39:446][660]LogFbx: Display: Triangulating static mesh cube_2
+[2023.04.24-06.02.39:446][660]LogFbx: Display: Triangulating static mesh cube_3
+[2023.04.24-06.02.39:447][660]LogFbx: Display: Triangulating static mesh cube_4
+[2023.04.24-06.02.39:447][660]LogFbx: Display: Triangulating static mesh cube_5
+[2023.04.24-06.02.39:448][660]LogFbx: Display: Triangulating static mesh cube_6
+[2023.04.24-06.02.39:507][660]LogStaticMesh: Display: Building static mesh Chair...
+[2023.04.24-06.02.39:569][660]LogStaticMesh: Built static mesh [0.06s] /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.02.39:582][660]LogStaticMesh: Warning: Chair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-06.02.39:582][660]LogStaticMesh: Warning: Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.24-06.02.39:592][660]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.24-06.02.39:592][660]FBXImport: Warning: Chair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-06.02.39:592][660]FBXImport: Warning: Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: ================================================
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Total job queries 1813, among them cache hits 1095 (60.40%)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Tracking 698 distinct input hashes that result in 303 distinct outputs (43.41%)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: RAM used: 4.75 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.58%
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Shaders Compiled: 550
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Jobs assigned 552, completed 550 (99.64%)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Average time worker was idle: 81.18 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Time job spent in pending queue: average 2.45 s, longest 22.43 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 12.06 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Job life time (pending + execution): average 3.24 s, max 22.84
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 227.12 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Jobs were issued in 552 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Average processing rate: 2.42 jobs/sec
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Total thread time: 311.07 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Total thread preprocess time: 19.02 s
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Percentage time preprocessing: 6.12%
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   69 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   71 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   18 times, average 0.64 sec, max 0.77 sec, min 0.62 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   18 times, average 0.64 sec, max 0.69 sec, min 0.61 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   18 times, average 0.63 sec, max 0.78 sec, min 0.60 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.84% of total time (compiled   69 times, average 0.76 sec, max 0.93 sec, min 0.48 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.57% of total time (compiled   71 times, average 0.73 sec, max 0.92 sec, min 0.57 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.83% of total time (compiled   41 times, average 0.59 sec, max 0.79 sec, min 0.46 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.16% of total time (compiled   41 times, average 0.39 sec, max 0.53 sec, min 0.31 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.15% of total time (compiled   26 times, average 0.50 sec, max 0.60 sec, min 0.46 sec)
+[2023.04.24-06.02.40:840][683]LogShaderCompilers: Display: ================================================
+[2023.04.24-06.02.45:146][819]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-06.02.45:179][819]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-06.03.20:295][295]Cmd: DELETE
+[2023.04.24-06.03.20:295][295]Cmd: ACTOR DELETE
+[2023.04.24-06.03.20:303][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.24-06.03.20:378][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.24-06.03.20:385][295]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.04.24-06.03.29:564][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.03.29:564][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.03.29:564][570]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_76
+[2023.04.24-06.03.32:044][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.03.32:044][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.03.32:045][638]LogActorFactory: Actor Factory spawned StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair as actor: StaticMeshActor /Game/UserAssets/Levels/BedroomLevel.BedroomLevel:PersistentLevel.StaticMeshActor_77
+[2023.04.24-06.04.05:935][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-06.04.05:944][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-06.04.05:944][953]PIE: New page: PIE session: BedroomLevel (Apr 23, 2023, 10:04:05 PM)
+[2023.04.24-06.04.05:945][953]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-06.04.05:968][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023869s)
+[2023.04.24-06.04.05:968][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/BedroomLevel.BedroomLevel to /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel (0.023908s)
+[2023.04.24-06.04.05:968][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-06.04.05:969][953]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.04.24-06.04.05:969][953]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2023.04.24-06.04.06:024][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.24-06.04.06:029][953]LogAudio: Display: Creating Audio Device:                 Id: 117, Scope: Unique, Realtime: True
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-06.04.06:029][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-06.04.06:029][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-06.04.06:029][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-06.04.06:029][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-06.04.06:029][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-06.04.06:031][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-06.04.06:077][953]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.24-06.04.06:077][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-06.04.06:077][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-06.04.06:077][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-06.04.06:077][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=117
+[2023.04.24-06.04.06:077][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=117
+[2023.04.24-06.04.06:106][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=117
+[2023.04.24-06.04.06:106][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=117
+[2023.04.24-06.04.06:106][953]LogInit: FAudioDevice initialized.
+[2023.04.24-06.04.06:106][953]LogAudio: Display: Audio Device (ID: 117) registered with world 'BedroomLevel'.
+[2023.04.24-06.04.06:110][953]LogLoad: Game class is 'OnRailShooter_C'
+[2023.04.24-06.04.06:115][953]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.04.24-02.04.06
+[2023.04.24-06.04.06:115][953]LogWorld: Bringing up level for play took: 0.004584
+[2023.04.24-06.04.06:117][953]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2023.04.24-06.04.06:119][953]PIE: Server logged in
+[2023.04.24-06.04.06:120][953]PIE: Play in editor total start time 0.176 seconds.
+[2023.04.24-06.04.58:625][974]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.04.24-06.04.58:625][974]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.04.24-06.04.58:625][974]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.04.24-06.04.58:625][974]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.04.58:626][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.04.58:680][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-06.04.58:684][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.24-06.04.58:721][974]LogAudio: Display: Audio Device (ID: 117) registered with world 'Title'.
+[2023.04.24-06.04.58:722][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-06.04.58:722][974]LogAIModule: Creating AISystem for world Title
+[2023.04.24-06.04.58:722][974]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2023.04.24-06.04.58:722][974]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-06.04.58:738][974]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.04.24-02.04.58
+[2023.04.24-06.04.58:739][974]LogWorld: Bringing up level for play took: 0.013737
+[2023.04.24-06.04.58:739][974]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.24-06.04.58:740][974]LogLoad: Took 0.115020 seconds to LoadMap(/Game/UserAssets/Levels/Title)
+[2023.04.24-06.05.00:970][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-06.05.00:970][ 68]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.04.24-06.05.01:006][ 68]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.05.01:007][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.05.01:011][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-06.05.01:017][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.05.01:065][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-06.05.01:066][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=117
+[2023.04.24-06.05.01:067][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=117
+[2023.04.24-06.05.01:075][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.24-06.05.01:884][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2023.04.24-06.05.05:457][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.24-06.05.07:133][143]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-06.05.07:143][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-06.05.07:246][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.24-06.05.07:359][143]LogSavePackage: Moving output files for package: /Game/UserAssets/Levels/BedroomLevel
+[2023.04.24-06.05.07:360][143]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/BedroomLevelA8462A8B4CE357962E80279AA08585EF.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Levels/BedroomLevel.umap'
+[2023.04.24-06.05.07:373][143]LogFileHelpers: Saving map 'BedroomLevel' took 0.177
+[2023.04.24-06.05.07:414][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserAssets/Models/Environment/Chair/Chair" FILE="../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Chair/Chair.uasset" SILENT=true
+[2023.04.24-06.05.07:448][143]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Chair/Chair
+[2023.04.24-06.05.07:448][143]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/Chair6B8DB25C454B8334CC301EB7A57219D2.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Chair/Chair.uasset'
+[2023.04.24-06.05.07:453][143]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Chair/chairtexture
+[2023.04.24-06.05.07:453][143]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/chairtexture6FA58F7C4B9E38D8E5688DAA5A2402F2.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Chair/chairtexture.uasset'
+[2023.04.24-06.05.09:582][143]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.24-06.05.12:130][143]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001372s (2.552082s overbudget)
+[2023.04.24-06.05.12:265][143]LogSavePackage: Moving output files for package: /Game/UserAssets/Models/Environment/Chair/chairtexture_png
+[2023.04.24-06.05.12:265][143]LogSavePackage: Moving '../../../../BringMeADream-GH/Bring_Me_a_Dream/Saved/chairtexture_pngBDD69E49428C417B12BD74B06503999C.tmp' to '../../../../BringMeADream-GH/Bring_Me_a_Dream/Content/UserAssets/Models/Environment/Chair/chairtexture_png.uasset'
+[2023.04.24-06.05.12:275][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.13 sec (total: 2:18 min)
+[2023.04.24-06.05.12:288][143]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-06.05.12:288][143]LogContentValidation: Display: Validating /Script/Engine.World /Game/UserAssets/Levels/BedroomLevel.BedroomLevel
+[2023.04.24-06.05.12:288][143]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UserAssets/Models/Environment/Chair/chairtexture.chairtexture
+[2023.04.24-06.05.12:288][143]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UserAssets/Models/Environment/Chair/chairtexture_png.chairtexture_png
+[2023.04.24-06.05.12:288][143]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/UserAssets/Models/Environment/Chair/Chair.Chair
+[2023.04.24-06.05.25:114][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.24-06.05.26:747][207]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-06.05.29:163][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.24-06.05.31:033][308]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-06.05.31:052][308]LogStall: Shutdown...
+[2023.04.24-06.05.31:320][308]LogStall: Shutdown complete.
+[2023.04.24-06.05.33:995][308]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.05.33:995][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.05.39:233][308]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-06.05.39:233][308]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.05.39:233][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.05.42:042][308]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-06.05.42:042][308]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.05.42:042][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.05.44:746][308]LogSlate: Window 'Bring_Me_a_Dream - Unreal Editor' being destroyed
+[2023.04.24-06.05.59:858][309]Cmd: QUIT_EDITOR
+[2023.04.24-06.05.59:919][309]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.24-06.06.00:315][309]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.24-06.06.00:401][309]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.24-06.06.00:471][309]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.24-06.06.00:836][309]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:869][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:870][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto0, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:870][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:870][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto9, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:870][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:895][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:895][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:895][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:895][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:954][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto4, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:954][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:954][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto5, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:954][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:955][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto6, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:955][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:955][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto7, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:956][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:956][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto8, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:956][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.00:957][309]LogWorld: UWorld::CleanupWorld for BedroomLevel_Auto3, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.00:957][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-06.06.01:987][309]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.24-06.06.02:502][309]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.24-06.06.06:606][309]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.24-06.06.06:606][309]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.24-06.06.06:606][309]LogAudio: Display: Audio Device unregistered from world 'BedroomLevel'.
+[2023.04.24-06.06.06:642][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.24-06.06.06:713][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.24-06.06.07:231][309]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.24-06.06.07:746][309]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.24-06.06.07:848][309]LogExit: Preparing to exit.
+[2023.04.24-06.06.10:228][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.24-06.06.10:351][309]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:354][309]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:453][309]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:455][309]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:456][309]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:456][309]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:456][309]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:456][309]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:461][309]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:461][309]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.10:471][309]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-06.06.14:592][309]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.14:595][309]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.14:597][309]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.14:600][309]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-06.06.14:602][309]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-06.06.16:561][309]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.04.24-06.06.17:751][309]LogExit: Editor shut down
+[2023.04.24-06.06.17:991][309]LogExit: Transaction tracking system shut down
