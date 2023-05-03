@@ -2847,3 +2847,361 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.03-17.10.17:066][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2023.05.03-17.10.17:088][827]LogPlayLevel: Display: Destroying online subsystem :Context_30
 [2023.05.03-17.10.19:327][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.10.55:491][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.03-17.10.55:552][554]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UserAssets/Levels/Title.Title
+[2023.05.03-17.10.55:552][554]Cmd: MAP LOAD FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/Levels/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-17.10.55:552][554]LightingResults: New page: Lighting Build
+[2023.05.03-17.10.55:552][554]LoadErrors: New page: Loading map: Title.umap
+[2023.05.03-17.10.55:556][554]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.10.55:556][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.10.55:556][554]MapCheck: New page: Map Check
+[2023.05.03-17.10.55:556][554]LightingResults: New page: Lighting Build
+[2023.05.03-17.10.55:583][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.10.55:587][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.03-17.10.55:589][554]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.10.55:589][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.10.55:618][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.03-17.10.55:648][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.03-17.10.55:655][554]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title'.
+[2023.05.03-17.10.55:655][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.10.55:656][554]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.10.55:663][554]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-17.10.55:693][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.03-17.10.55:707][554]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-17.10.55:708][554]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.05.03-17.10.55:708][554]LogFileHelpers: Loading map 'Title' took 0.155
+[2023.05.03-17.10.57:261][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-17.10.57:271][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-17.10.57:271][724]PIE: New page: PIE session: Title (May 3, 2023, 9:10:57 AM)
+[2023.05.03-17.10.57:300][724]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.10.57:302][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001909s)
+[2023.05.03-17.10.57:302][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/Title.Title to /Game/UserAssets/Levels/UEDPIE_0_Title.Title (0.001937s)
+[2023.05.03-17.10.57:302][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.10.57:302][724]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.10.57:302][724]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2023.05.03-17.10.57:330][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.03-17.10.57:331][724]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-17.10.57:331][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-17.10.57:331][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-17.10.57:332][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-17.10.57:332][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-17.10.57:332][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-17.10.57:333][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-17.10.57:455][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.03-17.10.57:455][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-17.10.57:455][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-17.10.57:455][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-17.10.57:455][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.05.03-17.10.57:455][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.05.03-17.10.57:458][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.05.03-17.10.57:458][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.05.03-17.10.57:458][724]LogInit: FAudioDevice initialized.
+[2023.05.03-17.10.57:458][724]LogAudio: Display: Audio Device (ID: 15) registered with world 'Title'.
+[2023.05.03-17.10.57:462][724]LogLoad: Game class is 'GameModeBase'
+[2023.05.03-17.10.57:463][724]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.05.03-13.10.57
+[2023.05.03-17.10.57:463][724]LogWorld: Bringing up level for play took: 0.000946
+[2023.05.03-17.10.57:466][724]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.05.03-17.10.57:468][724]PIE: Server logged in
+[2023.05.03-17.10.57:468][724]PIE: Play in editor total start time 0.198 seconds.
+[2023.05.03-17.11.33:311][ 13]LogNet: Browse: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.11.33:311][ 13]LogLoad: LoadMap: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.11.33:311][ 13]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.11.33:311][ 13]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.11.33:311][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.11.33:371][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.11.33:373][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.03-17.11.33:407][ 13]LogAudio: Display: Audio Device (ID: 15) registered with world 'BedroomLevel'.
+[2023.05.03-17.11.33:407][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.11.33:408][ 13]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.05.03-17.11.33:408][ 13]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2023.05.03-17.11.33:408][ 13]LogLoad: Game class is 'OnRailShooter_C'
+[2023.05.03-17.11.33:434][ 13]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.05.03-13.11.33
+[2023.05.03-17.11.33:434][ 13]LogWorld: Bringing up level for play took: 0.025692
+[2023.05.03-17.11.33:434][ 13]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.11.33:436][ 13]LogLoad: Took 0.125478 seconds to LoadMap(/Game/UserAssets/Levels/BedroomLevel)
+[2023.05.03-17.12.23:315][464]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BMAD_results'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.05.03-17.12.29:095][885]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.05.03-17.12.29:095][885]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.05.03-17.12.29:095][885]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.05.03-17.12.29:096][885]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.12.29:096][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.12.29:150][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.12.29:152][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.03-17.12.29:155][885]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.12.29:156][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2023.05.03-17.12.29:156][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/Title.Title to /Game/UserAssets/Levels/UEDPIE_0_Title.Title (0.001945s)
+[2023.05.03-17.12.29:156][885]LogAudio: Display: Audio Device (ID: 15) registered with world 'Title'.
+[2023.05.03-17.12.29:157][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.12.29:157][885]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.12.29:157][885]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2023.05.03-17.12.29:157][885]LogLoad: Game class is 'GameModeBase'
+[2023.05.03-17.12.29:157][885]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.05.03-13.12.29
+[2023.05.03-17.12.29:158][885]LogWorld: Bringing up level for play took: 0.000492
+[2023.05.03-17.12.29:158][885]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.12.29:159][885]LogLoad: Took 0.063570 seconds to LoadMap(/Game/UserAssets/Levels/UEDPIE_0_Title)
+[2023.05.03-17.12.30:660][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.12.30:660][ 60]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.12.30:660][ 60]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.12.30:661][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.12.30:663][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-17.12.30:668][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.12.30:696][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.12.30:696][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.03-17.12.30:698][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.03-17.12.30:709][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.12.30:737][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.05.03-17.12.36:380][715]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserAssets/UI/Results.Results
+[2023.05.03-17.12.36:380][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.12.36:392][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.12.36:789][715]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-17.12.36:789][715]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-17.13.33:387][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.03-17.13.33:391][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.13.33:446][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserAssets/UI/Results" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset" SILENT=true
+[2023.05.03-17.13.33:476][412]LogSavePackage: Moving output files for package: /Game/UserAssets/UI/Results
+[2023.05.03-17.13.33:479][412]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/Results9C13B17B4A0085D8E6DE52A58EE1A216.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset'
+[2023.05.03-17.13.33:486][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.89 sec)
+[2023.05.03-17.13.33:492][412]AssetCheck: New page: Asset Save: Results
+[2023.05.03-17.13.33:492][412]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UserAssets/UI/Results.Results
+[2023.05.03-17.13.59:171][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.03-17.13.59:174][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.13.59:217][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserAssets/UI/Results" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset" SILENT=true
+[2023.05.03-17.13.59:237][435]LogSavePackage: Moving output files for package: /Game/UserAssets/UI/Results
+[2023.05.03-17.13.59:239][435]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/Results62EB133E4399DEFC111C20882874B03E.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset'
+[2023.05.03-17.13.59:246][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.96 sec)
+[2023.05.03-17.13.59:253][435]AssetCheck: New page: Asset Save: Results
+[2023.05.03-17.13.59:253][435]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UserAssets/UI/Results.Results
+[2023.05.03-17.14.03:521][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.03-17.14.03:524][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.14.03:580][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserAssets/UI/Results" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset" SILENT=true
+[2023.05.03-17.14.03:597][923]LogSavePackage: Moving output files for package: /Game/UserAssets/UI/Results
+[2023.05.03-17.14.03:598][923]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/ResultsB327A23545B94EB67129378532335C50.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/UserAssets/UI/Results.uasset'
+[2023.05.03-17.14.03:604][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 8.04 sec)
+[2023.05.03-17.14.03:610][923]AssetCheck: New page: Asset Save: Results
+[2023.05.03-17.14.03:610][923]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UserAssets/UI/Results.Results
+[2023.05.03-17.14.06:631][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.03-17.14.07:685][392]BlueprintLog: New page: Compile Results
+[2023.05.03-17.14.07:730][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.03-17.14.09:143][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-17.14.09:153][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-17.14.09:153][538]PIE: New page: PIE session: Title (May 3, 2023, 9:14:09 AM)
+[2023.05.03-17.14.09:153][538]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.14.09:155][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001991s)
+[2023.05.03-17.14.09:155][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/Title.Title to /Game/UserAssets/Levels/UEDPIE_0_Title.Title (0.002014s)
+[2023.05.03-17.14.09:155][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.14.09:155][538]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.14.09:155][538]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2023.05.03-17.14.09:191][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.03-17.14.09:194][538]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-17.14.09:194][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-17.14.09:194][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-17.14.09:194][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-17.14.09:194][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-17.14.09:194][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-17.14.09:196][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-17.14.09:306][538]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.03-17.14.09:306][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-17.14.09:306][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-17.14.09:306][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-17.14.09:307][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.05.03-17.14.09:307][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.05.03-17.14.09:309][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.05.03-17.14.09:309][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.05.03-17.14.09:309][538]LogInit: FAudioDevice initialized.
+[2023.05.03-17.14.09:309][538]LogAudio: Display: Audio Device (ID: 16) registered with world 'Title'.
+[2023.05.03-17.14.09:387][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.14.09:387][538]LogLoad: Game class is 'GameModeBase'
+[2023.05.03-17.14.09:389][538]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.05.03-13.14.09
+[2023.05.03-17.14.09:390][538]LogWorld: Bringing up level for play took: 0.002510
+[2023.05.03-17.14.09:394][538]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.05.03-17.14.09:394][538]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.14.09:396][538]PIE: Server logged in
+[2023.05.03-17.14.09:398][538]PIE: Play in editor total start time 0.245 seconds.
+[2023.05.03-17.14.09:411][538]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.05.03-17.14.20:421][753]LogNet: Browse: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.14.20:422][753]LogLoad: LoadMap: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.14.20:422][753]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.14.20:422][753]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.14.20:422][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.14.20:513][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.14.20:514][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.03-17.14.20:550][753]LogAudio: Display: Audio Device (ID: 16) registered with world 'BedroomLevel'.
+[2023.05.03-17.14.20:550][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.14.20:551][753]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.05.03-17.14.20:551][753]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2023.05.03-17.14.20:551][753]LogLoad: Game class is 'OnRailShooter_C'
+[2023.05.03-17.14.20:578][753]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.05.03-13.14.20
+[2023.05.03-17.14.20:578][753]LogWorld: Bringing up level for play took: 0.027422
+[2023.05.03-17.14.20:579][753]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.14.20:581][753]LogLoad: Took 0.158710 seconds to LoadMap(/Game/UserAssets/Levels/BedroomLevel)
+[2023.05.03-17.15.10:425][  9]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BMAD_results'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.05.03-17.15.36:831][795]LogNet: Browse: /Game/UserAssets/Levels/Title
+[2023.05.03-17.15.36:831][795]LogLoad: LoadMap: /Game/UserAssets/Levels/Title
+[2023.05.03-17.15.36:831][795]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.05.03-17.15.36:832][795]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.15.36:832][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.15.36:912][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.15.36:915][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.03-17.15.36:917][795]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.15.36:919][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001975s)
+[2023.05.03-17.15.36:919][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/Title.Title to /Game/UserAssets/Levels/UEDPIE_0_Title.Title (0.002007s)
+[2023.05.03-17.15.36:919][795]LogAudio: Display: Audio Device (ID: 16) registered with world 'Title'.
+[2023.05.03-17.15.36:919][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.15.36:920][795]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.15.36:920][795]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2023.05.03-17.15.36:920][795]LogLoad: Game class is 'GameModeBase'
+[2023.05.03-17.15.36:920][795]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.05.03-13.15.36
+[2023.05.03-17.15.36:920][795]LogWorld: Bringing up level for play took: 0.000522
+[2023.05.03-17.15.36:921][795]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.15.36:922][795]LogLoad: Took 0.090296 seconds to LoadMap(/Game/UserAssets/Levels/UEDPIE_0_Title)
+[2023.05.03-17.16.11:503][460]LogNet: Browse: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.16.11:503][460]LogLoad: LoadMap: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.16.11:503][460]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.16.11:503][460]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.16.11:503][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.16.11:595][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.16.11:597][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.03-17.16.11:633][460]LogAudio: Display: Audio Device (ID: 16) registered with world 'BedroomLevel'.
+[2023.05.03-17.16.11:633][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.16.11:633][460]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.05.03-17.16.11:633][460]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2023.05.03-17.16.11:633][460]LogLoad: Game class is 'OnRailShooter_C'
+[2023.05.03-17.16.11:661][460]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.05.03-13.16.11
+[2023.05.03-17.16.11:661][460]LogWorld: Bringing up level for play took: 0.027458
+[2023.05.03-17.16.11:661][460]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.16.11:663][460]LogLoad: Took 0.160392 seconds to LoadMap(/Game/UserAssets/Levels/BedroomLevel)
+[2023.05.03-17.16.18:441][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.16.18:441][901]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.05.03-17.16.18:441][901]LogSlate: Window 'Bring_Me_a_Dream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.05.03-17.16.18:446][901]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.16.18:447][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.16.18:449][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-17.16.18:454][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.16.18:489][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.03-17.16.18:490][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.03-17.16.18:499][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.16.18:519][902]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.03-17.16.19:713][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.03-17.16.23:379][471]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.16.23:379][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.16.23:389][471]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.16.23:389][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.16.30:611][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BasicDream.BasicDream
+[2023.05.03-17.16.30:611][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.16.52:862][748]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave BMAD_SFX_enemyhurt...
+[2023.05.03-17.16.52:864][748]LogAudio: Display: Chunk size for SoundWave /Game/UserAssets/Audio/BMAD_SFX_enemyhurt.BMAD_SFX_enemyhurt: 262144
+[2023.05.03-17.17.01:571][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.03-17.17.01:578][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.17.01:624][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BasicDream" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/BasicDream.uasset" SILENT=true
+[2023.05.03-17.17.01:630][757]LogSavePackage: Moving output files for package: /Game/Blueprints/BasicDream
+[2023.05.03-17.17.01:630][757]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/BasicDream340425EC4C84EC6A6340D8BA88453730.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/BasicDream.uasset'
+[2023.05.03-17.17.01:636][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 8.10 sec)
+[2023.05.03-17.17.01:642][757]AssetCheck: New page: Asset Save: BasicDream
+[2023.05.03-17.17.01:642][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BasicDream.BasicDream
+[2023.05.03-17.17.02:893][899]BlueprintLog: New page: Compile BasicDream
+[2023.05.03-17.17.02:945][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.03-17.17.03:516][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.03-17.17.05:646][208]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.17.05:646][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.17.06:735][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-17.17.06:745][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-17.17.06:745][301]PIE: New page: PIE session: Title (May 3, 2023, 9:17:06 AM)
+[2023.05.03-17.17.06:746][301]LogPlayLevel: Creating play world package: /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.17.06:748][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002069s)
+[2023.05.03-17.17.06:748][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UserAssets/Levels/Title.Title to /Game/UserAssets/Levels/UEDPIE_0_Title.Title (0.002093s)
+[2023.05.03-17.17.06:748][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.17.06:748][301]LogAIModule: Creating AISystem for world Title
+[2023.05.03-17.17.06:748][301]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.05.03-17.17.06:778][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.03-17.17.06:787][301]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.05.03-17.17.06:787][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-17.17.06:787][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-17.17.06:787][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-17.17.06:787][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-17.17.06:788][301]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-17.17.06:788][301]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-17.17.06:788][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-17.17.06:788][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-17.17.06:788][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-17.17.06:788][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-17.17.06:788][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-17.17.06:790][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-17.17.07:088][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.03-17.17.07:088][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-17.17.07:088][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-17.17.07:088][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-17.17.07:089][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.05.03-17.17.07:089][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.05.03-17.17.07:091][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.05.03-17.17.07:091][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.05.03-17.17.07:091][301]LogInit: FAudioDevice initialized.
+[2023.05.03-17.17.07:091][301]LogAudio: Display: Audio Device (ID: 17) registered with world 'Title'.
+[2023.05.03-17.17.07:094][301]LogLoad: Game class is 'GameModeBase'
+[2023.05.03-17.17.07:095][301]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.05.03-13.17.07
+[2023.05.03-17.17.07:095][301]LogWorld: Bringing up level for play took: 0.000668
+[2023.05.03-17.17.07:097][301]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.05.03-17.17.07:098][301]PIE: Server logged in
+[2023.05.03-17.17.07:099][301]PIE: Play in editor total start time 0.353 seconds.
+[2023.05.03-17.17.08:656][475]LogNet: Browse: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.17.08:656][475]LogLoad: LoadMap: /Game/UserAssets/Levels/BedroomLevel
+[2023.05.03-17.17.08:656][475]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_Title
+[2023.05.03-17.17.08:656][475]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.17.08:656][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.17.08:713][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.17.08:715][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.03-17.17.08:751][475]LogAudio: Display: Audio Device (ID: 17) registered with world 'BedroomLevel'.
+[2023.05.03-17.17.08:751][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.17.08:751][475]LogAIModule: Creating AISystem for world BedroomLevel
+[2023.05.03-17.17.08:752][475]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.05.03-17.17.08:752][475]LogLoad: Game class is 'OnRailShooter_C'
+[2023.05.03-17.17.08:778][475]LogWorld: Bringing World /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel.BedroomLevel up for play (max tick rate 0) at 2023.05.03-13.17.08
+[2023.05.03-17.17.08:778][475]LogWorld: Bringing up level for play took: 0.026322
+[2023.05.03-17.17.08:778][475]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.03-17.17.08:780][475]LogLoad: Took 0.124355 seconds to LoadMap(/Game/UserAssets/Levels/BedroomLevel)
+[2023.05.03-17.17.47:472][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.17.47:472][162]LogWorld: BeginTearingDown for /Game/UserAssets/Levels/UEDPIE_0_BedroomLevel
+[2023.05.03-17.17.47:473][162]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.17.47:473][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.17.47:476][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-17.17.47:481][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.17.47:508][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-17.17.47:508][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.03-17.17.47:510][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.03-17.17.47:517][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.03-17.17.47:554][163]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.03-17.17.48:170][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.17.51:753][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BasicDream.BasicDream
+[2023.05.03-17.17.51:753][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.17.57:053][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.17.57:113][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BasicDream" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/BasicDream.uasset" SILENT=true
+[2023.05.03-17.17.57:119][200]LogSavePackage: Moving output files for package: /Game/Blueprints/BasicDream
+[2023.05.03-17.17.57:119][200]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/BasicDream7F2246EB4C30E5783C5AAFAA5FE6F268.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/BasicDream.uasset'
+[2023.05.03-17.17.57:125][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 8.17 sec)
+[2023.05.03-17.17.57:131][200]AssetCheck: New page: Asset Save: BasicDream
+[2023.05.03-17.17.57:131][200]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BasicDream.BasicDream
+[2023.05.03-17.18.00:609][593]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TougherEnemy.TougherEnemy
+[2023.05.03-17.18.00:610][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.18.07:811][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.18.07:814][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.18.07:875][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TougherEnemy" FILE="F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/TougherEnemy.uasset" SILENT=true
+[2023.05.03-17.18.07:882][340]LogSavePackage: Moving output files for package: /Game/Blueprints/TougherEnemy
+[2023.05.03-17.18.07:882][340]LogSavePackage: Moving 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Saved/TougherEnemy1C9BE1E643E8209DBFF4E3BA7B4C0DDB.tmp' to 'F:/EpicGames/UnrealProjects/GAME 310/BMAD gitfolder/Bring_Me_a_Dream/Content/Blueprints/TougherEnemy.uasset'
+[2023.05.03-17.18.07:888][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 8.24 sec)
+[2023.05.03-17.18.07:893][340]AssetCheck: New page: Asset Save: TougherEnemy
+[2023.05.03-17.18.07:893][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TougherEnemy.TougherEnemy
+[2023.05.03-17.18.08:960][461]BlueprintLog: New page: Compile TougherEnemy
+[2023.05.03-17.18.09:021][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-17.18.09:891][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.03-17.18.12:591][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
